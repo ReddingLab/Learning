@@ -2,9 +2,9 @@
 
 **Lipids (Rinse) Buffer:**
 
-10mM Tris-HCl pH 7.5 \_\_\_\_\_\_\_/50mL
+10mM Tris-HCl pH 7.5 
 
-100mM NaCl \_\_\_\_\_\_\_/50mL
+100mM NaCl 
 
 **BSA Buffer:**
 
