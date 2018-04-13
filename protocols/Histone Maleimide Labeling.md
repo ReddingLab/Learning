@@ -29,9 +29,8 @@ Procedure:
 
 2.  Bring up histone in labeling buffer to 0.5mM final concentration.
 
-> – for H2A 120C, 3.6 mg of histone goes into 516µl labeling buffer
->
-> – ε = 0.317, MW = 14081g/mol
+ * for H2A 120C, 3.6 mg of histone goes into 516µl labeling buffer
+ * ε = 0.317, MW = 14081g/mol
 
 1.  Add TCEP to histone to final concentration of 0.7mM.
 
@@ -40,14 +39,13 @@ Procedure:
 3.  Dissolve Atto488 maleimide in DMSO to 100mM, vortex and spin down to
     completely dissolve. Wrap tube in foil and store at -20˚C.
 
-> – for 1mg Atto488, dissolve in 9.37µl DMSO
->
-> – Atto488 maleimide MW: 1067g/mol
+* for 1mg Atto488, dissolve in 9.37µl DMSO
+* Atto488 maleimide MW: 1067g/mol
 
 1.  Add Atto488 maleimide to histone:
 
-> \*for 5ml desalting column, optimal load volume is 100µl-1.5ml; 200µl
-> reaction volumes work well.
+* for 5ml desalting column, optimal load volume is 100µl-1.5ml; 200µl
+reaction volumes work well.
 
 
 |                       | 50 mL         | Final Concentration  |
