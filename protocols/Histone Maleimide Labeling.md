@@ -14,11 +14,14 @@ Materials:
 
 Labeling Buffer:
 
-                         50 ml   Final Concentration
-  ---------------------- ------- ---------------------
-  1M Tris, pH7.0         1ml     20mM
-  GuCl (MW: 95.5g/mol)   33.4g   7M
-  0.25M EDTA             1ml     5mM
+
+|                       | 50 mL         | Final Concentration  |
+| -------------         |:-------------:| -----:|
+| 1M Tris, pH7.0        | 1ml | 20mM    |
+| GuCl (MW: 95.5g/mol)  | 33.4g         |   7M |
+| 0.25M EDTA            | 1ml           |   5mM |
+
+ 
 
 Procedure:
 
