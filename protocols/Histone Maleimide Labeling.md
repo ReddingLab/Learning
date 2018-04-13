@@ -17,9 +17,9 @@ Labeling Buffer:
 
 |                       | 50 mL         | Final Concentration  |
 | -------------         |:-------------:| -----:|
-| 1M Tris, pH7.0        | 1ml | 20mM    |
+| 1M Tris, pH7.0        | 1mL           | 20mM    |
 | GuCl (MW: 95.5g/mol)  | 33.4g         |   7M |
-| 0.25M EDTA            | 1ml           |   5mM |
+| 0.25M EDTA            | 1mL           |   5mM |
 
  
 
@@ -49,11 +49,14 @@ Procedure:
 > \*for 5ml desalting column, optimal load volume is 100µl-1.5ml; 200µl
 > reaction volumes work well.
 
-                  200µl     Final Concentration
-  --------------- --------- ---------------------
-  100mM Atto488   1.2µl     0.6mM
-  0.5mM histone   40µl      0.1mM
-  Water           158.8µl   
+
+|                       | 50 mL         | Final Concentration  |
+| -------------         |:-------------:| -----:|
+| 100mM Atto488         | 1.2µL        |   0.6mM |
+| 0.5mM histone         | 40µL         |   0.1mM |
+| Water                 | 158.8µL      |    |
+
+
 
 Incubate 3 hr at RT, then O/N at 4˚C
 
