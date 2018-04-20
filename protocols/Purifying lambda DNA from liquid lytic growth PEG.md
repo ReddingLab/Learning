@@ -9,7 +9,7 @@ August 2011, v.2
 1\) Package phage as described in the Epicentre protocol.
 
 2\) Grow an o/n culture of LE392. Inoculate .4ml culture + .4ml (10mM
-CaCl~2~, 10mM MgCl~2~) with a single screened plaque.[^1] Vortex briefly
+CaCl~2~, 10mM MgCl~2~) with a single screened plaque.[1] Vortex briefly
 and incubate at 37°C for 15min.
 
 3\) Add this to 200ml of NZCYM broth (contains MgSO~4~) in a 2L flask
@@ -53,7 +53,7 @@ pellet.
 and pool in a 15ml Falcon. Aim for about 2.5ml total volume. (Volumes of
 added buffers below for 2.5ml; scale up as necessay.)
 
-10\) Add RNase[^2] and DNase[^3] to 20µg/ml and 5µg/ml final
+10\) Add RNase[2] and DNase[3] to 20µg/ml and 5µg/ml final
 concentrations; incubate at 37°C for 30min.
 
 11\) Add 2.5ml .3M Tris-HCl, EDTA to 100mM, and SDS to 1.25%; incubate 10
@@ -77,10 +77,10 @@ DNA will be in relatively high concentration and competent to package. A
 lambda for comparison will give you some idea of how well the
 purification worked.
 
-[^1]: Extracting the phage beforehand yields the same results as using a
+[1]: Extracting the phage beforehand yields the same results as using a
     plug directly.
 
-[^2]: Comes dry; make a 4mg/ml stock in water. R4875-500mg, Sigma.
+[2]: Comes dry; make a 4mg/ml stock in water. R4875-500mg, Sigma.
 
-[^3]: Use Sigma D5319-2mg. According to J, *via* Luke, other DNases will
+[3]: Use Sigma D5319-2mg. According to J, *via* Luke, other DNases will
     chew up packaged lambda DNA.
