@@ -2,9 +2,11 @@
 
 **Lipids (Rinse) Buffer:**
 
-10mM Tris-HCl pH 7.5 
+|                       | 50 mL         | Final Concentration  |
+| -------------         |:-------------:| -----:|
+| 1M Tris, pH7.5        | 500uL         | 10mM    |
+| 5M NaCl               | 1mL           |   100mM |
 
-100mM NaCl 
 
 **BSA Buffer:**
 
@@ -12,29 +14,24 @@
 > so the salt conditions can and usually do vary. The following
 > conditions are common. *
 
-40mM Tris-HCl pH 7.5 \_\_\_\_\_\_\_/50mL
-
-20mM KCl \_\_\_\_\_\_\_/50mL
-
-1mM MgCl2 \_\_\_\_\_\_\_/50mL
-
-0.5mg/mL BSA \_\_\_\_\_\_\_/50mL
-
-1mM DTT \_\_\_\_\_\_\_/50mL
+|                       | 50 mL         | Final Concentration  |
+| -------------         |:-------------:| ---------:    |
+| 1M Tris, pH7.5        | 2mL           |   40mM        |
+| 1M KCl                | 1mL           |   20mM        |
+| 1M MgCl~2             | 50uL          |   1mM         |
+| 1M DTT                | 50uL          |   1mM         |
+| BSA                   | 10mg          |   0.2 mg/mL         |
 
 **common imaging Buffer:**
 
 BSA buffer plus the following.
 
-100pM YoYo1 \_\_\_\_\_\_\_/mL
+|                       | 50 mL         | Final Concentration  |
+| -------------         |:-------------:| ---------:    |
+| 40% Glucose           | 20uL/mL       |   0.8%        |
+| Gloxy                 | 2uL/mL        |   ?        |
+| 1uM YOYO-1            | ?       |   ?        |
 
-1% (w/v) Glucose \_\_\_\_\_\_\_/mL
-
-Gloxy \_\_\_\_\_\_\_/mL
-
-100 units/mL glucose oxidas
-
-> 1,560 units/mL catalase
 
 **Step 1: Cleaning**
 
