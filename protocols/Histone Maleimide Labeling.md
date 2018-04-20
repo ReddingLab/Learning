@@ -67,10 +67,10 @@ Incubate 3 hr at RT, then O/N at 4˚C
 2.  Run SDS-PAGE and visualize with Typhoon imager in Atto488 channel,
     then coomassie stain.
 
-    a.  1^st^ peak corresponds to protein (labeled and unlabeled elute
+    a.  1st peak corresponds to protein (labeled and unlabeled elute
         together)
 
-    b.  2^nd^ peak corresponds to free dye
+    b.  2nd peak corresponds to free dye
 
 3.  Assess labeling efficiency by NanoDrop (delta between molarity
     calculated from Atto488 absorbance and molarity calculated from
