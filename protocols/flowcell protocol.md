@@ -18,7 +18,7 @@
 | -------------         |:-------------:| ---------:    |
 | 1M Tris, pH7.5        | 2mL           |   40mM        |
 | 1M KCl                | 1mL           |   20mM        |
-| 1M MgCl~2             | 50uL          |   1mM         |
+| 1M MgCl<sub>2</sub>   | 50uL          |   1mM         |
 | 1M DTT                | 50uL          |   1mM         |
 | BSA                   | 10mg          |   0.2 mg/mL         |
 
