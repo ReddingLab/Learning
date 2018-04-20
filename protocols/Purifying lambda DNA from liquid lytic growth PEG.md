@@ -9,12 +9,12 @@ August 2011, v.2
 1\) Package phage as described in the Epicentre protocol.
 
 2\) Grow an o/n culture of LE392. Inoculate .4ml culture + .4ml (10mM
-CaCl~2~, 10mM MgCl~2~) with a single screened plaque.[1] Vortex briefly
+CaCl<sub>2</sub>, 10mM MgCl<sub>2</sub>) with a single screened plaque.[1] Vortex briefly
 and incubate at 37°C for 15min.
 
-3\) Add this to 200ml of NZCYM broth (contains MgSO~4~) in a 2L flask
+3\) Add this to 200ml of NZCYM broth (contains MgSO<sub>4</sub>) in a 2L flask
 (aeration is important). Grow at 37°C at 125rpm for 4hrs., at which
-point culture should be cloudy. Begin monitoring OD~600~: it will shoot
+point culture should be cloudy. Begin monitoring OD<sub>600</sub>: it will shoot
 up to above 1, and then drop rapidly. As soon as you reach \~.4, begin
 monitoring frequently until OD begins to climb again. This will happen
 \~.3, and in less than 8hrs.
@@ -40,8 +40,8 @@ ice for 10min.
 for 10min. to remove cell debris.
 
 7\) Collect supernatant evenly in 50ml tubes and centrifuge again at
-12,000xg for 5min. to remove remaining cell debris. Add solid PEG~8000~
-(or PEG~6000~ or similar) to each (10% w/v); incubate on ice for 30min.
+12,000xg for 5min. to remove remaining cell debris. Add solid PEG<sub>8000</sub>
+(or PEG<sub>6000</sub> or similar) to each (10% w/v); incubate on ice for 30min.
 
 8\) 12,000xg for 15min. to pellet phage. You will not get a pure-phage
 pellet, but rather a gunky smear containing cell debris... it's OK,
