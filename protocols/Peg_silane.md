@@ -24,7 +24,7 @@ __Protocol:__
 
 7. Wash 3x with millQ.
 
-8**a**. Dry slides: If cover slip, remember which slide was peg coated, and dry in oven or with nitrogen glass.
+8**a**. Dry slides: If cover slip, remember which slide was peg coated, and dry in oven or with nitrogen glass.  
 8**b**. Dry slides: If plate, suck out water and let sit in hood till evaporated. I bang it on a kim wipe periodically.
 
 9. Use slides!
