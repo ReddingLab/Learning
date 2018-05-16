@@ -38,8 +38,8 @@ fluors, which could shear DNA if left in solution
 
     -   17mg + 625μL 80% glycerol + 325μL T50 buffer
 
-    -   If using 1x T50 buffer, this will be diluted, but that did not
-        affect GLOX
+    -   If using 1x T50 buffer, this will be diluted, but that does not
+        seem to affect GLOX
 
 -   Suspend 28mg of Glucose Oxidase in 400μL of T50 buffer (vortex)
 
