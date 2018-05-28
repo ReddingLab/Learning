@@ -23,8 +23,8 @@ MATERIALS
 |  2-mercaptoethanol (14.3M Stock)  | 350 uL        |   1.22 mL            |   5mM                |
 
 
-**6-8 KDa cutoff dialysis membranes**
-  Boil in 1L milliQ water for 5 min and cool to room temperature.
+**6-8 KDa cutoff dialysis membranes**  
+  _Boil in 1L milliQ water for 5 min and cool to room temperature._
 
 **Superdex 200 HR 10/30 column**
 
