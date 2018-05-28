@@ -4,23 +4,24 @@ Preparation of histone octamer from purified core histones
 MATERIALS
 ---------
 
-*(1) Unfolding buffer (50 mL)*
 
-7 M Guanidinium hydrochloride
+**Unfolding Buffer (50 mL):**
 
-20 mM Tris-Hcl, pH 7.5
+|                                   | 50 mL         | Final Concentration  |
+| -------------                     |:-------------:| -----:               |
+|  Tris-Hcl, pH 7.5  (1M Stock)     | 1 mL          |   20mM               |
+|  Guanidinium hydrochloride        | 33.4 g        |   7M                 |
+|  DTT  (1M Stock)                  | 0.5 mL        |   10mM               |
 
-10 mM DTT (add before use)
+**Refolding Buffer (3.5 L):**
 
-*(2) Refolding Buffer (3.5 L)*
+|                                   | per L         | 3.5L                 | Final Concentration  |
+| -------------                     |:-------------:| :---------------:    | -----:  |             
+|  Tris-Hcl, pH 7.5 (1M Stock)      | 20 mL         |   70 mL              |   20mM               |        
+|  NaCl                             | 117 g         |   409 g              |   2M                 |
+|  EDTA  (0.5M Stock)               | 2 mL          |   7 mL               |   1mM                |
+|  2-mercaptoethanol (14.3M Stock)  | 350 uL        |   1.22 mL            |   5mM                |
 
-2M NaCl
-
-10 mM Tris-HCl, pH 7.5
-
-1 mM EDTA
-
-5 mM 2-mercaptoethanol
 
 \(3) *6-8 KDa cutoff dialysis membranes*
 
