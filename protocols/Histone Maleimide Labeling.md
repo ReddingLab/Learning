@@ -1,6 +1,7 @@
 Histone Maleimide Labeling
 
 20170721LJ
+Updated 20180705LJ
 
 Materials:
 
@@ -44,8 +45,8 @@ Procedure:
 
 1.  Add Atto488 maleimide to histone:
 
-* for 5ml desalting column, optimal load volume is 100µl-1.5ml; 200µl
-reaction volumes work well.
+* for 5ml desalting column, optimal load volume is 100µl-1.5ml; 200µl reaction volumes work well.
+* alternative desalting method is to dialyze labeling reaction into labeling buffer in which case you don't need to worry about reaction volumes; dialysis desalting method seems to work well for Atto488 and Atto565
 
 
 |                       | 50 mL         | Final Concentration  |
