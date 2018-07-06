@@ -34,14 +34,14 @@ fluors, which could shear DNA if left in solution
 
 *Protocol*:
 
--   Suspend catalase at 17 mg/mL in T50 buffer with 50% glycerol
+-   Suspend catalase at 17 mg/mL in T50 buffer with 50% glycerol at 4°C
 
     -   17mg + 625μL 80% glycerol + 325μL T50 buffer
 
-    -   If using 1x T50 buffer, this will be diluted, but that did not
-        affect GLOX
+    -   If using 1x T50 buffer, this will be diluted, but that does not
+        seem to affect GLOX
 
--   Suspend 28mg of Glucose Oxidase in 400μL of T50 buffer (vortex)
+-   Suspend 28mg of Glucose Oxidase in 400μL of T50 buffer at 4°C (vortex)
 
 -   Add 100uL of Catalase solution to re-suspended glucose oxidase
     (500μL total)
@@ -49,7 +49,7 @@ fluors, which could shear DNA if left in solution
 -   Incubate at 4°C for 20 minutes (catalase activates glucose oxidase)
 
 -   Spin down precipitate at 14,000 rpm in a table-top centrifuge for 5
-    minutes
+    minutes at 4°C
 
     -   If no pellet is visible after centrifuging: flash-freeze the
         500μL GLOX solution, let thaw, and then centrifuge again to
